@@ -2,13 +2,13 @@
 
 /**
  * @ngdoc function
- * @name udaciMealsApp.controller:MainCtrl
+ * @name udaciMealsApp.controller:MenuCtrl
  * @description
- * # MainCtrl
+ * # MenuCtrl
  * Controller of the udaciMealsApp
  */
 angular.module('udaciMealsApp')
-  .controller('MainCtrl', function () {
+  .controller('MenuCtrl', function () {
     this.awesomeThings = [
       'HTML5 Boilerplate',
       'AngularJS',
